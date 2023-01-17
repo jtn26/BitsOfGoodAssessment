@@ -1,0 +1,14 @@
+/* Your Styles Here */
+.namecard {
+    text-align: center;
+    margin: auto;
+    max-width: 500px;
+    border-style: solid;
+    font-family: monospace;
+    box-shadow: 0 2em 4em 0 rgba(0,0,0,0.5);
+    background-color: antiquewhite;
+}
+
+.description {
+    color:navy;
+}
